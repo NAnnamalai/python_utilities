@@ -1,0 +1,74 @@
+{
+    "employees": [
+        {
+            "first_name": "Jennifer",
+            "last_name": "Werner",
+            "company": "Jones Inc",
+            "id": 892,
+            "designation": "Minerals surveyor"
+        },
+        {
+            "first_name": "Thomas",
+            "last_name": "Chambers",
+            "company": "Henry, Ruiz and Mcdonald",
+            "id": 119,
+            "designation": "Adult nurse"
+        },
+        {
+            "first_name": "Kevin",
+            "last_name": "Powell",
+            "company": "Fischer-Dean",
+            "id": 817,
+            "designation": "Computer games developer"
+        },
+        {
+            "first_name": "Travis",
+            "last_name": "Burns",
+            "company": "Black-Neal",
+            "id": 19,
+            "designation": "Pharmacologist"
+        },
+        {
+            "first_name": "Stephanie",
+            "last_name": "Gonzalez",
+            "company": "Hunt Ltd",
+            "id": 361,
+            "designation": "Chief Marketing Officer"
+        },
+        {
+            "first_name": "Andre",
+            "last_name": "Russell",
+            "company": "Wilson-Miller",
+            "id": 574,
+            "designation": "Interpreter"
+        },
+        {
+            "first_name": "Martha",
+            "last_name": "Solis",
+            "company": "Jones-Jones",
+            "id": 948,
+            "designation": "Teacher, special educational needs"
+        },
+        {
+            "first_name": "Janet",
+            "last_name": "Swanson",
+            "company": "Mcclain Inc",
+            "id": 724,
+            "designation": "Engineer, aeronautical"
+        },
+        {
+            "first_name": "Laura",
+            "last_name": "Allen",
+            "company": "Blair-Montes",
+            "id": 839,
+            "designation": "Psychotherapist, dance movement"
+        },
+        {
+            "first_name": "Debbie",
+            "last_name": "Roberts",
+            "company": "Daniel, Buchanan and Larsen",
+            "id": 291,
+            "designation": "Personal assistant"
+        }
+    ]
+}
