@@ -6,3 +6,4 @@
 4. [py scripts of data structures](https://github.com/NAnnamalai/python_utilities/blob/master/data_structures/ "py scripts of data structures")
 5. [automating stuff](https://github.com/NAnnamalai/python_utilities/blob/master/automating_stuff/ "automating stuff")
 6. [generating random keys](https://github.com/NAnnamalai/python_utilities/blob/master/generating_random_keys/ "generating random keys")
+7. [creating and serving api requests](https://github.com/NAnnamalai/python_utilities/blob/master/api_services/ "creating and serving api requests")
