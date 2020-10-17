@@ -1,0 +1,18 @@
+even-numbers: &even-nos
+  two: 2
+  four: 4
+  six: 6
+  eight: 8
+  ten: 10
+
+odd-numbers: &odd-nos
+  one: 1
+  three: 3
+  five: 5
+  seven: 7
+  nine: 9
+
+# combine both even, odd number without rewriting them
+all-numbers:
+  <<: *even-nos
+  <<: *odd-nos
